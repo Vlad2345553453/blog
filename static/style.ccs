@@ -1,0 +1,16 @@
+body{
+    background: beige
+    font=family: Arial
+    
+}
+.post-image{
+    float= left;
+    border: 5px solid black;
+    margin-right: 10p[]
+}
+
+.category-header{
+    font-size: 60px
+    font.family:
+
+}
